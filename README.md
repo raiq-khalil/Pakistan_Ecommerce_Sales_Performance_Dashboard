@@ -1,13 +1,13 @@
 # Pakistan E-Commerce Sales Performance & Customer Insights Dashboard
 
-![Dashboard Banner](Images/Business_Performance_Overview.png)
+![Dashboard Banner](Business_Performance_Overview.png)
 
 ## Project Overview
 This project analyzes Pakistan’s largest e-commerce dataset to uncover key trends in **sales performance**, **customer behavior**, and **operational efficiency**.  
 The analysis was performed in **Power BI**, leveraging data modeling (Star Schema), DAX measures, and interactive visualizations to drive **actionable business insights** for marketing, pricing, and inventory optimization.
 
 ---
-![Customer Behavior](Images/Customer_Behavior.png)
+![Customer Behavior](Customer_Behavior.png)
 ## Objectives
 1. Identify overall **sales trends and revenue performance** across months and years.  
 2. Discover **top-selling product categories** and least-performing items.  
@@ -51,7 +51,7 @@ Performed in **Power Query** within Power BI.
 ---
 
 ## Exploratory Data Analysis (EDA)
-![Overview](Images/Overview.png)
+![Overview](Overview.png)
 
 ### 🔹 Overview KPIs
 | Metric | Value (PKR) |
@@ -72,7 +72,7 @@ Performed in **Power Query** within Power BI.
 - **Yearly Revenue:** 2016 → ₨ 128.9 M | 2017 → ₨ 388.9 M | 2018 → ₨ 1.70 B  
 - **Top Categories:** Mobiles & Tablets · Appliances · Entertainment  
 
-![Monthly Revenue Charts](images/Trend_Analysis.png)
+![Monthly Revenue Charts](Trend_Analysis.png)
 
 **Interpretation:**  
 Revenue peaks align with **Eid & summer shopping seasons** (Q1–Q2).  
@@ -85,7 +85,7 @@ Revenue peaks align with **Eid & summer shopping seasons** (Q1–Q2).
 - **New Customers ≫ Returning Customers**, especially in March & May.  
 - **Total Customers:** ≈ 48 K  
 
-![Customer Trend](images/Customer_Insights.png)
+![Customer Trend](Customer_Insights.png)
 
 **Insight:** Acquisition is strong, but **retention and repeat purchases** are weak → need for loyalty programs and personalized marketing.
 
@@ -162,7 +162,7 @@ Together, these strategies can **boost profitability**, **improve customer loyal
 ## Dashboard Preview
 | Overview | Time Analysis | Customer Insights |
 |-----------|---------------|------------------|
-| ![Overview](Images/Overview.png) | ![Time Analysis](Images/Trend_Analysis.png) | ![Customer Insights](Images/Customer_Insights.png) |
+| ![Overview](Overview.png) | ![Time Analysis](Trend_Analysis.png) | ![Customer Insights](Customer_Insights.png) |
 
 ---
 
